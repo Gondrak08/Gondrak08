@@ -2,7 +2,7 @@
 
 **`Web Developer & Creator`**
 
-As an independent full-stack developer and content creator, I am dedicated to creating my vision of the digital world one step at a time. Each coding project I undertake is meticulously crafted from the ground up, beginning with careful planning and design, and culminating in the practical application of code to solve real-life problems.
+A independent full-stack developer and content creator, dedicated to creating my vision of the digital world one step at a time.
 
    <p align="left">
       <a href="https://twitter.com/vitoralecrim">
