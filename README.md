@@ -6,12 +6,18 @@ A independent full-stack developer and content creator, dedicated to creating my
 
    <p align="left">
       <a href="https://twitter.com/vitoralecrim">
-         <img alt="my twitter" title="Follow me on twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+         <img alt="my twitter" title="Follow me on twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>         </a> 
       <a href="https://www.linkedin.com/in/vitor-alecrim-0a588b145/">
-         <img alt="Linkedin" title="My linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+         <img alt="Linkedin" title="My linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>         </a>
       <a href="https://medium.com/@barao-tech" >
          <img alt="Medium" title="Follow me on Medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
       </a>
+
+      <a href="https://flat-co.netlify.app" >
+         <img alt="Personal Website" title="Check out my website"  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+      </a>
+
+      
    </p>
 
 ---
