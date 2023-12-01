@@ -12,11 +12,10 @@ A independent full-stack developer and content creator, dedicated to creating my
       <a href="https://medium.com/@barao-tech" >
          <img alt="Medium" title="Follow me on Medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
       </a>
-
-      <a href="https://flat-co.netlify.app" >
-         <img alt="Personal Website" title="Check out my website"  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+     
+   <a href="https://flat-co.netlify.app" >
+         <img alt="Personal Website" title="Check out my website"  src="https://img.shields.io/badge/website-000000?style=for-the-      badge&logo=About.me&logoColor=white" />
       </a>
-
       
    </p>
 
